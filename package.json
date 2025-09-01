@@ -1,5 +1,5 @@
 {
-  "name": "allquran",
+  "name": "all-quran",
   "version": "0.0.1",
   "private": true,
   "main": "expo-router/entry",
@@ -45,9 +45,7 @@
     "@gorhom/bottom-sheet": "^5.0.5",
     "@hookform/resolvers": "^3.9.0",
     "@shopify/flash-list": "1.7.6",
-    "@tanstack/react-query": "^5.52.1",
     "app-icon-badge": "^0.1.2",
-    "axios": "^1.7.5",
     "expo": "~53.0.12",
     "expo-constants": "~17.1.6",
     "expo-crypto": "^14.1.5",
@@ -63,7 +61,6 @@
     "i18next": "^23.14.0",
     "lodash.memoize": "^4.1.2",
     "moti": "^0.29.0",
-    "nativewind": "^4.1.21",
     "react": "19.0.0",
     "react-dom": "19.0.0",
     "react-error-boundary": "^4.0.13",
@@ -82,10 +79,8 @@
     "react-native-svg": "~15.11.2",
     "react-native-url-polyfill": "^2.0.0",
     "react-native-web": "~0.20.0",
-    "react-query-kit": "^3.3.0",
     "tailwind-variants": "^0.2.1",
-    "zod": "^3.23.8",
-    "zustand": "^5.0.5"
+    "zod": "^3.23.8"
   },
   "devDependencies": {
     "@babel/core": "^7.26.0",
@@ -128,7 +123,6 @@
     "lint-staged": "^15.2.9",
     "np": "^10.0.7",
     "prettier": "^3.3.3",
-    "tailwindcss": "3.4.4",
     "ts-jest": "^29.1.2",
     "typescript": "^5.8.3",
     "typescript-eslint": "^8.34.0"
